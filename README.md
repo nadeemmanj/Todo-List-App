@@ -8,7 +8,7 @@ Tasks are stored using Local Storage so they remain available after refreshing t
 
 ## 🚀 Live Demo
 
-[To-Do List App](https://nadeemmanj.github.io/To-Do-List/)
+[To-Do List App](https://nadeemmanj.github.io/Todo-List-App/)
 
 ## 🛠️ Technologies
 
